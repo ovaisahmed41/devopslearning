@@ -10,3 +10,6 @@ yum check-update
 yum update -y
 su
 ip r l
+ls
+yum update -y
+sudo su
